@@ -20,8 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:textColor="?android:attr/textColorPrimary"
-            android:textSize="20sp"
-            android:text="百京"/>
+            android:textSize="20sp" />
 
         <TextView
             android:id="@+id/placeAddress"
@@ -29,8 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:textColor="?android:attr/textColorSecondary"
-            android:textSize="14sp"
-            android:text="五道口"/>
+            android:textSize="14sp" />
     </LinearLayout>
 
 </com.google.android.material.card.MaterialCardView>
